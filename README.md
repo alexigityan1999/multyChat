@@ -15,7 +15,7 @@ Simple multi-user chat application using sockets.
    - This command will create the executable file `server.exe` (or `server` in the case of Linux).
 
 2. **Run the server:**
-   - Execute the compiled server, specifying the port to listen on. Example:
+   - Execute the compiled server. Example:
      ```bash
      ./server.exe 
      ```
